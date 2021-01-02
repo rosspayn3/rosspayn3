@@ -32,7 +32,7 @@
 <img align="left" alt="css3" width="30px" height="30px" src="https://img.icons8.com/color/96/000000/css3.png"/>
 
 
-<br><br><hr><br><br>
+<br><br>
 
 <sub>Icons from <a href="https://icons8.com">Icons8</a></sub>
 
