@@ -14,6 +14,7 @@
 [<img align="left" alt="youtube" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/youtube.svg" />][youtube-gaming]
 [<img align="left" alt="twitch" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/twitch.svg" />][twitch]
 
+<br>
 
 ### My Languages & Tools
 
