@@ -1,9 +1,9 @@
 ## I'm Ross. Welcome to the thing!
 
-- 📚 I'm an undergrad at University of Arkansas - Fort Smith in the Information Technology program. My focus is in security.
-- 🎮 My interests include PC gaming, cars, anime, and all things Star Wars.
-- ☕ Short term goals include drinking as much coffee as possible, graduating, staying alive.
-- 🕵️‍♂️ My long term goal is to get a job in computer forensics or cyber security.
+📚 I'm an undergrad at University of Arkansas - Fort Smith in the Information Technology program. My focus is in security.
+🎮 My interests include PC gaming, cars, anime, and all things Star Wars.
+☕ Short term goals include drinking as much coffee as possible, graduating, staying alive.
+🕵️‍♂️ My long term goal is to get a job in computer forensics or cyber security.
 
 
 ### Connect with me!
@@ -13,6 +13,8 @@
 [<img align="left" alt="linkedin" width="30px" height="30px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="youtube" width="30px" height="30px" src="https://img.icons8.com/fluent/96/000000/youtube-play.png"/>][youtube-gaming]
 [<img align="left" alt="twitch" width="30px" height="30px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" />][twitch]
+
+<br><br>
 
 
 ### My Languages & Tools
@@ -29,6 +31,8 @@
 <img align="left" alt="html5" width="30px" height="30px" src="https://img.icons8.com/color/96/000000/html-5.png"/>
 <img align="left" alt="css3" width="30px" height="30px" src="https://img.icons8.com/color/96/000000/css3.png"/>
 
+
+<br><br><hr><br><br>
 
 <sub>Icons from <a href="https://icons8.com">Icons8</a></sub>
 
