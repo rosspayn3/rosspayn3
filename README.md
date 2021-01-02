@@ -30,7 +30,10 @@
 <img align="left" alt="css3" width="30px" height="30px" src="https://img.icons8.com/color/96/000000/css3.png"/>
 
 
-<img src="https://img.icons8.com/fluent/96/000000/linkedin.png"/>
+<sub>Icons from <a href="https://icons8.com">Icons8</a></sub>
+
+
+
 [website]: https://rpayne.dev
 [twitter]: https://twitter.com/rosspayn3
 [youtube-gaming]: https://www.youtube.com/channel/UC8hdruLUS_7xVrZsj6VGfOw
@@ -38,4 +41,3 @@
 [twitch]: https://www.twitch.tv/squidzorz
 
 
-<small><a href="https://icons8.com">Icons from Icons8</a></small>
