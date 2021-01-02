@@ -4,7 +4,7 @@
 
 🎮 My interests include PC gaming, cars, anime, and all things Star Wars.
 
-☕ Short term goals include drinking as much coffee as possible, graduating, staying alive.
+☕ Short term goals include drinking as much coffee as possible, graduating, and staying alive.
 
 🕵️‍♂️ My long term goal is to get a job in computer forensics or cyber security.
 
@@ -48,5 +48,3 @@
 [youtube-gaming]: https://www.youtube.com/channel/UC8hdruLUS_7xVrZsj6VGfOw
 [linkedin]: https://www.linkedin.com/in/ross-payn3/
 [twitch]: https://www.twitch.tv/squidzorz
-
-
