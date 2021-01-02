@@ -1,8 +1,11 @@
 ## I'm Ross. Welcome to the thing!
 
 📚 I'm an undergrad at University of Arkansas - Fort Smith in the Information Technology program. My focus is in security.
+
 🎮 My interests include PC gaming, cars, anime, and all things Star Wars.
+
 ☕ Short term goals include drinking as much coffee as possible, graduating, staying alive.
+
 🕵️‍♂️ My long term goal is to get a job in computer forensics or cyber security.
 
 
