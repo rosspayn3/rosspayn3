@@ -9,12 +9,11 @@
 ### Connect with me!
 
 [<img align="left" alt="rpayne.dev" width="30px" height="30px" src="https://img.icons8.com/fluent/96/000000/globe.png" />][website]
-[<img align="left" alt="twitter" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/twitter.svg" />][twitter]
-[<img align="left" alt="linkedin" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="linkedin" width="30px" height="30px" src="https://img.icons8.com/fluent/96/000000/youtube-play.png"/>][youtube-gaming]
+[<img align="left" alt="twitter" width="30px" height="30px" src="https://img.icons8.com/fluent/96/000000/twitter.png" />][twitter]
+[<img align="left" alt="linkedin" width="30px" height="30px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="youtube" width="30px" height="30px" src="https://img.icons8.com/fluent/96/000000/youtube-play.png"/>][youtube-gaming]
 [<img align="left" alt="twitch" width="30px" height="30px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" />][twitch]
 
-<br>
 
 ### My Languages & Tools
 
@@ -31,9 +30,12 @@
 <img align="left" alt="css3" width="30px" height="30px" src="https://img.icons8.com/color/96/000000/css3.png"/>
 
 
-
+<img src="https://img.icons8.com/fluent/96/000000/linkedin.png"/>
 [website]: https://rpayne.dev
 [twitter]: https://twitter.com/rosspayn3
 [youtube-gaming]: https://www.youtube.com/channel/UC8hdruLUS_7xVrZsj6VGfOw
 [linkedin]: https://www.linkedin.com/in/ross-payn3/
 [twitch]: https://www.twitch.tv/squidzorz
+
+
+<small><a href="https://icons8.com">Icons from Icons8</a></small>
