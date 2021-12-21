@@ -1,10 +1,10 @@
 ## I'm Ross. Welcome to the thing!
 
-📚 ~~I'm an undergrad at~~ I graduated from the University of Arkansas - Fort Smith Information Technology program in fall 2021. My concentration was cybersecurity.
+📚 I graduated from the University of Arkansas - Fort Smith Information Technology program in fall 2021 with a B.S. in Information Technology with a concentration in security.
 
 🎮 My interests include PC gaming, cars, anime, and all things Star Wars.
 
-☕ Short term goals include drinking as much coffee as possible, ~~graduating~~ (DONE!), and staying alive.
+☕ Short term goals include drinking as much coffee as possible and staying alive.
 
 🕵️‍♂️ My long term goal is to get a job in computer forensics or cyber security.
 
