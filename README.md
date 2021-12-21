@@ -1,6 +1,6 @@
 ## I'm Ross. Welcome to the thing!
 
-📚 I'm an undergrad at University of Arkansas - Fort Smith in the Information Technology program. My concentration is security.
+📚 ~~I'm an undergrad at~~ I graduated from the University of Arkansas - Fort Smith Information Technology program in fall 2021. My concentration was security.
 
 🎮 My interests include PC gaming, cars, anime, and all things Star Wars.
 
