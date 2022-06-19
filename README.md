@@ -1,6 +1,6 @@
 ## I'm Ross. Welcome to the thing!
 
-📚 I graduated from University of Arkansas - Fort Smith in fall 2021 with a B.S. in Information Technology with a concentration in security.
+📚 I graduated from University of Arkansas - Fort Smith in December 2021 with a B.S. in Information Technology with a concentration in security.
 
 🎮 My interests include PC gaming, cars, anime, and all things Star Wars.
 
