@@ -24,19 +24,21 @@
 <br><br>
 
 
-### My Languages & Tools
+### My Tools
 
-<a href="#"><img align="left" alt="windows-10" width="30px" height="30px" src="https://img.icons8.com/color/96/000000/windows-10.png"/></a>
-<a href="#"><img align="left" alt="ubuntu-linux" width="30px" height="30px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png"/></a>
-<a href="#"><img align="left" alt="visual-studio-code" width="30px" height="30px" src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png"/></a>
+<a href="#"><img align="left" alt="ubuntu-linux" width="30px" height="30px" src="https://img.icons8.com/color/96/ubuntu--v1.png"/></a>
+<a href="#"><img align="left" alt="ubuntu-linux" width="30px" height="30px" src="https://img.icons8.com/color/96/red-hat.png"/></a>
+<a href="#"><img align="left" alt="ubuntu-linux" width="30px" height="30px" src="https://img.icons8.com/fluency/96/bash.png"/></a>
+<a href="#"><img align="left" alt="ubuntu-linux" width="30px" height="30px" src="https://img.icons8.com/color/96/python--v1.png"/></a>
+<a href="#"><img align="left" alt="windows-10" width="30px" height="30px" src="https://img.icons8.com/fluency/96/windows-10.png"/></a>
+<a href="#"><img align="left" alt="visual-studio-code" width="30px" height="30px" src="https://img.icons8.com/fluency/96/visual-studio-code-2019.png"/></a>
 <a href="#"><img align="left" alt="wireshark" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Icon.png"/></a>
-<a href="#"><img align="left" alt="virtualbox" width="30px" height="30px" src="https://img.icons8.com/color/96/000000/virtualbox.png"/></a>
-<a href="#"><img align="left" alt="eclipse-ide" width="30px" height="30px" src="https://img.icons8.com/nolan/96/java-eclipse.png"/></a>
-<a href="#"><img align="left" alt="java" width="30px" height="30px" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"/></a>
-<a href="#"><img align="left" alt="javascript" width="30px" height="30px" src="https://img.icons8.com/color/96/000000/javascript.png"/></a>
-<a href="#"><img align="left" alt="npm" width="30px" height="30px" src="https://img.icons8.com/color/96/000000/npm.png"/></a>
-<a href="#"><img align="left" alt="html5" width="30px" height="30px" src="https://img.icons8.com/color/96/000000/html-5.png"/></a>
-<a href="#"><img align="left" alt="css3" width="30px" height="30px" src="https://img.icons8.com/color/96/000000/css3.png"/></a>
+<a href="#"><img align="left" alt="vmware" width="30px" height="30px" src="https://img.icons8.com/color/96/vmware.png"/></a>
+<a href="#"><img align="left" alt="vmware" width="30px" height="30px" src="https://img.icons8.com/fluency/96/microsoft-365.png"/></a>
+<a href="#"><img align="left" alt="vmware" width="30px" height="30px" src="https://img.icons8.com/fluency/96/azure-1.png"/></a>
+<a href="#"><img align="left" alt="vmware" width="30px" height="30px" src="https://img.icons8.com/fluency/96/office-365-security--compliance.png"/></a>
+<a href="#"><img align="left" alt="vmware" width="30px" height="30px" src="https://img.icons8.com/color/96/microsoft-exchange-2019.png"/></a>
+
 
 
 <br><br>
