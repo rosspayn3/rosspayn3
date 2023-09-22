@@ -15,7 +15,7 @@
 
 ### Connect with me!
 
-[<img align="left" alt="rpayne.dev" width="30px" height="30px" src="https://img.icons8.com/fluent/96/000000/globe.png" />][website]
+[<img align="left" alt="rpayne.dev" width="30px" height="30px" src="https://img.icons8.com/fluency/48/domain.png" />][website]
 [<img align="left" alt="twitter" width="30px" height="30px" src="https://img.icons8.com/fluent/96/000000/twitter.png" />][twitter]
 [<img align="left" alt="linkedin" width="30px" height="30px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="youtube" width="30px" height="30px" src="https://img.icons8.com/fluent/96/000000/youtube-play.png"/>][youtube-gaming]
